@@ -1,16 +1,14 @@
-![PsychionalEngineLogo](docs/img/PsychEngineLogoTweak.png)
-
-Engine originally used on [Mind Games Mod](https://gamebanana.com/mods/301107), intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it. Also aiming to be an easier alternative to newbie coders.
+Testing this fork thing
 
 ## Installation:
 
-Refer to [the Build Instructions](/docs/BUILDING.md)
+Install it
 
 ## Customization:
 
 If you wish to disable things like *Lua Scripts* or *Video Cutscenes*, you can refer to the `Project.xml` file.
 
-Inside `Project.xml`, you will find several variables to customize Psych Engine to your liking.
+Inside `Project.xml`, you will find several variables to customize Psych Engine to your liking and uhhhhhhhh.
 
 To start you off, disabling *Video Cutscenes* should be simple, simply delete the line `"VIDEOS_ALLOWED"` or comment it out by wrapping the line in XML-like comments, like this: `<!-- YOUR_LINE_HERE -->`
 
@@ -80,6 +78,8 @@ There you can learn how to use the 212 PlayState funcions in your mod!
 ### Week 6:
   * On Thorns, the HUD is hidden during the cutscene
   * Also there's the Background girls being spooky during the "Hey!" parts of the Instrumental
+### Weekend 1:
+  * Nothing
 
 ## Cool new Chart Editor changes and countless bug fixes
 ![Chart Editor](docs/img/chart.png)
@@ -124,4 +124,4 @@ There you can learn how to use the 212 PlayState funcions in your mod!
 * You can enable "Combo Stacking" in Gameplay Options. This causes the combo sprites to just be one sprite with an animation rather than sprites spawning each note hit.
 
 
-#### Psych Engine by ShadowMario, Friday Night Funkin' by ninjamuffin99
+#### Psych Engine by ShadowMario, Friday Night Funkin' by ninjamuffin99 and geometry dash by joe metri dash 
