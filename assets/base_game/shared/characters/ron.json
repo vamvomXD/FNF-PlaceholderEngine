@@ -1,0 +1,63 @@
+{
+	"animations": [
+		{
+			"offsets": [85, -58],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "Ugh"
+		},
+		{
+			"offsets": [20, -30],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Idle"
+		},
+		{
+			"offsets": [60, 5],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Sing Up"
+		},
+		{
+			"offsets": [56, -134],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Sing Down"
+		},
+		{
+			"offsets": [144, -34],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Sing Left"
+		},
+		{
+			"offsets": [-144, -34],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Sing Right"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/RONTHECOOLGUY",
+	"position": [0, 240],
+	"healthicon": "ron",
+	"flip_x": false,
+	"healthbar_colors": [255, 216, 0],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}
